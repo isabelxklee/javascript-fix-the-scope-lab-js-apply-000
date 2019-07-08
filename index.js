@@ -1,10 +1,10 @@
 /// animal challenge
-var animal = 'dog';
+var animal1 = 'dog';
   function myAnimal() {
   return animal
 }
 
-var yourAnimal = 'cat';
+var animal2 = 'cat';
   function yourAnimal() {
   return yourAnimal;
 }
