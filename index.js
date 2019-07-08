@@ -6,7 +6,7 @@ var animal1 = 'dog';
 
 var animal2 = 'cat';
   function yourAnimal() {
-  return yourAnimal;
+  return animal2;
 }
 
 /// arithmetic challenge
