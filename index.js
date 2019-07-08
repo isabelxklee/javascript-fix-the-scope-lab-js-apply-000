@@ -1,7 +1,7 @@
 /// animal challenge
 var animal1 = 'dog';
   function myAnimal() {
-  return animal1
+  return animal1;
 }
 
 var animal2 = 'cat';
